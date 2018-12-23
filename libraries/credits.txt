@@ -1,0 +1,30 @@
+Classic
+Copyright (c) 2014, rxi
+Made by rxi
+https://github.com/rxi/classic
+
+Cargo
+MIT License
+Made by Bjorn Swenson (bjornbytes)
+https://github.com/bjornbytes/cargo
+
+HUMP
+Copyright (c) 2010-2018 Matthias Richter
+Made by Matthias Richter (vrld)
+https://github.com/vrld/hump
+
+Windfield
+Copyright (c) 2018 SSYGEN
+Made by SSYGEN (adnzzzzzZ)
+https://github.com/adnzzzzZ/windfield
+
+Under an Ending Sun
+By Andre William Owen (krackatoa)
+http://freemusicarchive.org/music/krackatoa/
+http://www.krackatoa.com/
+https://freemusicarchive.org/music/krackatoa/under_an_ending_sun/
+
+Christmas Town
+By John Walters (TRG Banks)
+http://freemusicarchive.org/music/TRG_Banks/
+http://freemusicarchive.org/music/TRG_Banks/TRG_Banks_Christmas_Album/Christmas_Town
